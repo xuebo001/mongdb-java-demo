@@ -6,9 +6,6 @@ import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.Filters;
 import org.bson.Document;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * MongDBJDBC
  * Created by fxb on 2018/7/24.
@@ -87,6 +84,5 @@ public class MongDBJDBC {
         }
 
     }
-
 
 }
